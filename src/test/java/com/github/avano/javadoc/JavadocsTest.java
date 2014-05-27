@@ -1,4 +1,4 @@
-package org.jboss.soa.qa.javadoc;
+package com.github.avano.javadoc;
 
 import static org.junit.Assert.*;
 
